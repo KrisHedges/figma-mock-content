@@ -2,16 +2,8 @@
     "name": "Default",
     "lists": [
         {
-            "name": "First Names",
-            "url": "https://raw.githubusercontent.com/dominictarr/random-name/master/first-names.txt"
-        },
-        {
-            "name": "Last Names",
-            "path": "last-names.txt"
-        },
-        {
-            "name": "Addresses",
-            "path": "addresses.txt"
+            "name": "Vehicle Makes",
+            "path": "vehicle-makes.txt"
         }
     ]
 }
